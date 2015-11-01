@@ -1,0 +1,8 @@
+c:\users\programming\documents\visual studio 2015\Projects\Homework_01_DefiningClasses\Pr_01_Persons\bin\Debug\Pr_01_Persons.exe.config
+c:\users\programming\documents\visual studio 2015\Projects\Homework_01_DefiningClasses\Pr_01_Persons\obj\Debug\Pr_01_Persons.csprojResolveAssemblyReference.cache
+D:\ProgrammingDeska\06_OOP\Homework_01_DefiningClasses\Pr_01_Persons\bin\Debug\Pr_01_Persons.exe.config
+D:\ProgrammingDeska\06_OOP\Homework_01_DefiningClasses\Pr_01_Persons\bin\Debug\Pr_01_Persons.exe
+D:\ProgrammingDeska\06_OOP\Homework_01_DefiningClasses\Pr_01_Persons\bin\Debug\Pr_01_Persons.pdb
+D:\ProgrammingDeska\06_OOP\Homework_01_DefiningClasses\Pr_01_Persons\obj\Debug\Pr_01_Persons.csprojResolveAssemblyReference.cache
+D:\ProgrammingDeska\06_OOP\Homework_01_DefiningClasses\Pr_01_Persons\obj\Debug\Pr_01_Persons.exe
+D:\ProgrammingDeska\06_OOP\Homework_01_DefiningClasses\Pr_01_Persons\obj\Debug\Pr_01_Persons.pdb

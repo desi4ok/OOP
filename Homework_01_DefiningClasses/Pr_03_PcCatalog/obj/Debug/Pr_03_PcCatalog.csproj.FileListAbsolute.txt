@@ -1,0 +1,6 @@
+D:\ProgrammingDeska\06_OOP\Homework_01_DefiningClasses\Pr_03_PcCatalog\bin\Debug\Pr_03_PcCatalog.exe.config
+D:\ProgrammingDeska\06_OOP\Homework_01_DefiningClasses\Pr_03_PcCatalog\obj\Debug\Pr_03_PcCatalog.csprojResolveAssemblyReference.cache
+D:\ProgrammingDeska\06_OOP\Homework_01_DefiningClasses\Pr_03_PcCatalog\bin\Debug\Pr_03_PcCatalog.exe
+D:\ProgrammingDeska\06_OOP\Homework_01_DefiningClasses\Pr_03_PcCatalog\bin\Debug\Pr_03_PcCatalog.pdb
+D:\ProgrammingDeska\06_OOP\Homework_01_DefiningClasses\Pr_03_PcCatalog\obj\Debug\Pr_03_PcCatalog.exe
+D:\ProgrammingDeska\06_OOP\Homework_01_DefiningClasses\Pr_03_PcCatalog\obj\Debug\Pr_03_PcCatalog.pdb

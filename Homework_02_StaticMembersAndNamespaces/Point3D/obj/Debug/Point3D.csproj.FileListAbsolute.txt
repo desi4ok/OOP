@@ -1,0 +1,1 @@
+D:\ProgrammingDeska\06_OOP\Homework_02_StaticMembersAndNamespaces\Homework_01_StaticMembersAndNamespaces\Point3D\bin\Debug\Point3D.exe.config

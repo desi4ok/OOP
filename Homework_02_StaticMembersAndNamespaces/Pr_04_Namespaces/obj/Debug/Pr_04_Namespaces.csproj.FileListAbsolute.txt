@@ -1,0 +1,1 @@
+D:\ProgrammingDeska\06_OOP\Homework_02_StaticMembersAndNamespaces\Pr_04_Namespaces\bin\Debug\Pr_04_Namespaces.exe.config

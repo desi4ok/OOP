@@ -1,0 +1,6 @@
+D:\ProgrammingDeska\06_OOP\Homework_01_DefiningClasses\Pr_02_LaptopShop\bin\Debug\Pr_02_LaptopShop.exe.config
+D:\ProgrammingDeska\06_OOP\Homework_01_DefiningClasses\Pr_02_LaptopShop\bin\Debug\Pr_02_LaptopShop.exe
+D:\ProgrammingDeska\06_OOP\Homework_01_DefiningClasses\Pr_02_LaptopShop\bin\Debug\Pr_02_LaptopShop.pdb
+D:\ProgrammingDeska\06_OOP\Homework_01_DefiningClasses\Pr_02_LaptopShop\obj\Debug\Pr_02_LaptopShop.exe
+D:\ProgrammingDeska\06_OOP\Homework_01_DefiningClasses\Pr_02_LaptopShop\obj\Debug\Pr_02_LaptopShop.pdb
+D:\ProgrammingDeska\06_OOP\Homework_01_DefiningClasses\Pr_02_LaptopShop\obj\Debug\Pr_02_LaptopShop.csprojResolveAssemblyReference.cache
